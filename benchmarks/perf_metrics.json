@@ -1,8 +1,8 @@
 {
   "benchmarks": {
-    "gelu_vectorized_throughput_tokens_sec": 1132018.9209,
-    "softmax_numerical_stability_eps": 0.0106,
-    "cosine_scheduler_step_overhead_ns": 43.2053
+    "gelu_vectorized_throughput_tokens_sec": 1119694.8083,
+    "softmax_numerical_stability_eps": 0.0104,
+    "cosine_scheduler_step_overhead_ns": 42.7933
   },
   "status": "passing",
   "loss_convergence_score": 98.4,
