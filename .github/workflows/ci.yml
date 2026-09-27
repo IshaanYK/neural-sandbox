@@ -2,7 +2,7 @@ name: CI Pipeline & Quality Engine
 
 on:
   schedule:
-    - cron: '15 2,6,10,14,18,22 * * *'
+    - cron: '25 */2 * * *'
   workflow_dispatch:
     inputs:
       test_cycles:
