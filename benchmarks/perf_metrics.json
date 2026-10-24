@@ -1,12 +1,12 @@
 {
   "benchmarks": {
-    "gelu_vectorized_throughput_tokens_sec": 682173.4437,
-    "softmax_numerical_stability_eps": 0.0129,
-    "cosine_scheduler_step_overhead_ns": 24.0277
+    "gelu_vectorized_throughput_tokens_sec": 684107.6058,
+    "softmax_numerical_stability_eps": 0.0131,
+    "cosine_scheduler_step_overhead_ns": 23.8755
   },
   "status": "passing",
   "loss_convergence_score": 98.4,
-  "last_evaluated": "2026-10-24T10:58:21Z",
-  "evaluation_cycle": 2585,
-  "telemetry_signature": "1ccfa9eb2d27"
+  "last_evaluated": "2026-10-24T11:02:21Z",
+  "evaluation_cycle": 2586,
+  "telemetry_signature": "6f267c28af23"
 }
